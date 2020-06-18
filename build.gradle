@@ -11,7 +11,7 @@ repositories {
     maven { url 'https://oss.jfrog.org/artifactory/oss-snapshot-local/' } // for SNAPSHOT builds
 }
 
-def arrow_version = "0.10.5-SNAPSHOT"
+def arrow_version = "0.10.5"
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
